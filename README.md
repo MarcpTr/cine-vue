@@ -1,7 +1,7 @@
 # cine-vue
 
 Web que utiliza la API de themoviedb para buscar las películas.
-(https://cine-vue.netlify.app/)
+(https://cine-vue3.netlify.app/)
 ![](https://raw.githubusercontent.com/MarcpTr/cine-vue/main/tendencias.JPG)
 ![](https://raw.githubusercontent.com/MarcpTr/cine-vue/main/info.JPG)
 
